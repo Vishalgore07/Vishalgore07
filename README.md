@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Bharat Gore</h1>
 <h3 align="center">>>Developer on a mission to keep learning and evolving. Always eager to learn and adapt. I enjoy solving problems that make a difference.</h3>
-<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="400px" align="right" alt="">
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="350px" align="right" alt="">
 <br>
 - 🌱 I’m currently learning **C#,ASP.Net**
 <br>
